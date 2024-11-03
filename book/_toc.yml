@@ -1,13 +1,4 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-
 format: jb-book
 root: index
-# parts:
-# - caption: Supervised Learning
-#   chapters:
-#   - file: notes/supervised_learning
-#     sections:
-#       - file: notes/logistic_regression
 chapters:
-  - file: notes/supervised_learning
+- file: notes/supervised_learning
